@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made by <a href="https://github.com/mervesf">Merve</a>
+  Built by <a href="https://github.com/mervesf">Merve</a> · ⭐ Star if you found this useful!
 </p>
 
 <p align="center">
